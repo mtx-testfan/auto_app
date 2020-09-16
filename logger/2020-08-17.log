@@ -1,0 +1,24 @@
+2020-08-17 20:20:57,382 INFO [root] [baseOperate.py (__init__:22] - Init a mobileDriver.
+2020-08-17 20:20:57,719 INFO [root] [baseOperate.py (get_element:87] - Had find the element ' 帐号密码登录 ' successful by xpath via value: //*[@text='帐号密码登录'] 
+2020-08-17 20:20:58,476 INFO [root] [baseOperate.py (click:120] - click element css
+2020-08-17 20:21:00,985 INFO [root] [baseOperate.py (__init__:22] - Init a mobileDriver.
+2020-08-17 20:21:01,181 INFO [root] [baseOperate.py (get_element:87] - Had find the element ' 帐号密码登录 ' successful by xpath via value: //*[@text='帐号密码登录'] 
+2020-08-17 20:21:01,839 INFO [root] [baseOperate.py (click:120] - click element css
+2020-08-17 20:21:08,539 INFO [root] [baseOperate.py (get_element:87] - Had find the element ' 请输入手机号/邮箱 ' successful by xpath via value: //*[@text='请输入手机号/邮箱'] 
+2020-08-17 20:21:11,959 INFO [root] [baseOperate.py (get_element:87] - Had find the element ' 请输入手机号/邮箱 ' successful by xpath via value: //*[@text='请输入手机号/邮箱'] 
+2020-08-17 20:21:17,685 INFO [root] [baseOperate.py (type:249] -  Input text 17610873228 to xpath=>//*[@text='请输入手机号/邮箱'] element.
+2020-08-17 20:21:20,727 INFO [root] [baseOperate.py (get_element:45] - Had find the element '  ' successful by id via value: com.douban.frodo:id/input_password 
+2020-08-17 20:21:20,758 INFO [root] [baseOperate.py (type:249] -  Input text 17610873228 to xpath=>//*[@text='请输入手机号/邮箱'] element.
+2020-08-17 20:21:23,788 INFO [root] [baseOperate.py (get_element:45] - Had find the element '  ' successful by id via value: com.douban.frodo:id/input_password 
+2020-08-17 20:21:27,610 INFO [root] [baseOperate.py (type:249] -  Input text yaoyao123456 to id=>com.douban.frodo:id/input_password element.
+2020-08-17 20:21:30,631 INFO [root] [baseOperate.py (get_element:45] - Had find the element ' 登录 ' successful by id via value: com.douban.frodo:id/sign_in_douban 
+2020-08-17 20:21:30,682 INFO [root] [baseOperate.py (type:249] -  Input text yaoyao123456 to id=>com.douban.frodo:id/input_password element.
+2020-08-17 20:21:30,820 INFO [root] [baseOperate.py (click:120] - click element css
+2020-08-17 20:21:33,724 INFO [root] [baseOperate.py (get_element:45] - Had find the element ' 登录 ' successful by id via value: com.douban.frodo:id/sign_in_douban 
+2020-08-17 20:21:33,897 INFO [root] [baseOperate.py (click:120] - click element css
+2020-08-17 20:21:43,986 INFO [root] [baseOperate.py (get_element:87] - Had find the element ' 我的 ' successful by xpath via value: //android.widget.TextView[@text='我的'] 
+2020-08-17 20:21:44,148 INFO [root] [baseOperate.py (click:120] - click element css
+2020-08-17 20:21:47,077 INFO [root] [baseOperate.py (get_element:87] - Had find the element ' 我的 ' successful by xpath via value: //android.widget.TextView[@text='我的'] 
+2020-08-17 20:21:47,236 INFO [root] [baseOperate.py (click:120] - click element css
+2020-08-17 20:21:50,150 INFO [root] [baseOperate.py (page_source:274] - get page_source
+2020-08-17 20:21:53,238 INFO [root] [baseOperate.py (page_source:274] - get page_source
